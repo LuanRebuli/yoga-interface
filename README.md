@@ -3,4 +3,8 @@
 # This project not responsive!
 
 what is your strength? Star Wars
+
+# Use this link to view the project. obs: use mobile mode if you are on google.
+
+https://luanrebuli.github.io/project-yoda-login/
  
